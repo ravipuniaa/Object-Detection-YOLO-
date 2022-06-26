@@ -4,4 +4,4 @@ RAVI PUNIA
 
 Object Detection using YOLOv3 and python from picture
 
-https://media.giphy.com/media/jRTlHjXwkw43WRgCnW/giphy.gif
+<iframe src="https://giphy.com/embed/jRTlHjXwkw43WRgCnW" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/face-scan-facerecognition-jRTlHjXwkw43WRgCnW">via GIPHY</a></p>
